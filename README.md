@@ -1,4 +1,4 @@
-# RealMySQL 북스터디
+# Real MySQL 북스터디
 
 <img src="https://user-images.githubusercontent.com/76773202/222942181-b59974a4-0414-4e35-b96d-bd3c1e9e5d2f.png" width="400" height="500"/>
 
